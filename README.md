@@ -15,7 +15,7 @@ A command-line application that creates a README.md file based on user's input u
 - [GitHub Info](#GitHub) 
 
 ## Installation
-      `npm init` `npm install inquirer`
+npm install
 
 ## Usage
 Run the following command at the root of your project and answer the prompted questions: 
