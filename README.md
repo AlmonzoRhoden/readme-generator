@@ -4,9 +4,12 @@
 ## Description 
 A command-line application that creates a README.md file based on user's input using Inquirer package.
 
+## Video tutorial
+<iframe src="https://drive.google.com/file/d/1BVlv-8IM-XMSek62GL9gu7Pci6Vkxl4X/preview" width="640" height="480"></iframe>
 
 ## Table of Contents
 - [Description](#Description)
+- [Video tutorial](#Video)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Contributors](#Contributors)
