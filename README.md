@@ -1,31 +1,20 @@
+<h1 align = "center" >README-Generator</h1>
 
-  # read-me-generator
-  
-  ## Description 
-  Read-Me-Generator
-  ## Table of Contents
-  - [Description](#Description)
-  - [Installation](#Installation)
-  - [Usage](#Usage)
+<h2>Preview of application<h2>
 
-  - [Contributors](#Contributors)
-  - [Test](#Test)
-  - [Repository Link](#Repository)
-  - [GitHub Info](#GitHub) 
-  ## Installation
-        run npm install and node index.js at the root of your folder
-  ## Usage
-  see above
-  ## Licence
-  undefined
+![readme-generator](https://user-images.githubusercontent.com/61447353/103433638-e3a65700-4bc2-11eb-9390-51dd1bb025d8.PNG)
 
-  ## Contributors
-  Almonzo Rhoden
-  ## Tests
-  read how to install project
-  ## Questions?
-  ✉️ Contact me with any questions: almonzo.rhoden@gmail.com
-  ## GitHub
-  ![Image of me](https://avatars1.githubusercontent.com/u/61447353?v=4)
-  - [GitHub Profile](https://github.com/AlmonzoRhoden)
-  
+<h2> Application descripition </h2>
+
+A command-line application that creates a README.md file based on user's input using the Inquirer package.
+
+<h2> Video tutorial </h2>
+Link to video tutorial https://drive.google.com/file/d/1BVlv-8IM-XMSek62GL9gu7Pci6Vkxl4X/view
+
+
+<h2> Application installation </h2>
+Run the following commands below at the root of your project: 
+
+`npm install`
+
+`node index.js`
