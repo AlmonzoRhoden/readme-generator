@@ -1,5 +1,6 @@
 // function to generate markdown for README
-function generateMarkdown(data, githubInfo) {
+function generateMarkdown(data, githubInfo) 
+{
     return `
   # ${data.title}
   
@@ -32,5 +33,6 @@ function generateMarkdown(data, githubInfo) {
   - [GitHub Profile](${githubInfo.profile})
   `;
   }
-  
+
+//   Exporting markdown for read me
   module.exports = generateMarkdown;
