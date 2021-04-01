@@ -1,6 +1,6 @@
 <h1 align = "center" >README-Generator</h1>
 
-<h2>Preview of application<h2>
+<h2>Preview of Application<h2>
 
 ![readme-generator](https://user-images.githubusercontent.com/61447353/103433638-e3a65700-4bc2-11eb-9390-51dd1bb025d8.PNG)
 
